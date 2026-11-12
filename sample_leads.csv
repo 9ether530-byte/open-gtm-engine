@@ -1,0 +1,6 @@
+name,company,role,email,linkedin_url,x_handle,source,signals,notes
+Ada Example,Example Analytics,Founder,ada@example.test,https://www.linkedin.com/in/ada-example,@adaexample,manual,"hiring;funding",Fictional sample lead
+Ben Sample,Sample Roofing Co,Director of Operations,ben@example.test,https://www.linkedin.com/in/ben-sample,@bensample,manual,"post_engagement",Fictional sample lead
+Cara Test,Testbridge Labs,VP Sales,cara@example.test,https://www.linkedin.com/in/cara-test,@caratest,manual,"competitor_customer;hiring",Fictional sample lead
+Dan Demo,DemoWorks,Head of Growth,dan@example.test,https://www.linkedin.com/in/dan-demo,@dandemo,manual,"funding",Fictional sample lead
+Eve Placeholder,Placeholder Studio,Marketing Manager,eve@example.test,https://www.linkedin.com/in/eve-placeholder,@eveplaceholder,manual,"",Fictional sample lead
