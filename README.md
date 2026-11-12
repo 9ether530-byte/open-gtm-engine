@@ -36,7 +36,7 @@ No PumpGTM service is called.
   score as proof someone wants to buy.
 - **It is not PumpGTM.** It does not connect to PumpGTM, copy its code,
   or reproduce its hosted service.
-- No auth, no OAuth, no deployment, no GitHub repo yet. Local only.
+- No auth, no OAuth, no deployment. Local only — the code is public on GitHub, the app itself is not deployed anywhere.
 
 ## ⚠️ Terms-of-service warning
 
@@ -144,7 +144,7 @@ python -m pytest tests/ -q
 - No live LinkedIn / email / X sending, no OAuth, no inbox reading.
 - No buyer database, no enrichment, no intent data beyond what you enter.
 - No auth — local only, do not expose port 8040 publicly.
-- No deployment, no GitHub repo created by this build.
+- No deployment. GitHub repo is live and public: https://github.com/9ether530-byte/open-gtm-engine (MIT).
 
 ## License
 
